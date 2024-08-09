@@ -20,8 +20,8 @@
       "version": "0.0.1",
       "git_shallow": false,
       "always_download": true,
-      "git_url": "https://github.com/NVIDIA/cuCollections.git",
-      "git_tag": "115656e2b4a179660b2ff0e5f17c2ce8dba2decb"
+      "git_url": "https://github.com/srinivasyadav18/cuCollections.git",
+      "git_tag": "cb1e0aab5c8c0c808481c0a1f58e02f53dc86e67"
     },
     "fmt": {
       "version": "10.1.1",
