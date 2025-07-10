@@ -22,8 +22,8 @@
       "version": "0.0.1",
       "git_shallow": false,
       "always_download": true,
-      "git_url": "https://github.com/NVIDIA/cuCollections.git",
-      "git_tag": "6d0c28e855545a7b89df1c4276b2e7fef351682c"
+      "git_url": "https://github.com/srinivasyadav18/cuCollections.git",
+      "git_tag": "541bdc093517253fe6d035ab6028161629af7ad6"
     },
     "rapids_logger": {
       "version": "0.1.0",
